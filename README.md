@@ -1,4 +1,4 @@
-# IdM CAC Authentication Guide - PCTE
+# IdM CAC Authentication Guide
 ## Overview
 This guide walks through how to enable Smart Card authentication via DoD CAC.
 It follows the Red hat IdM Guide for Configuration Smart Card authentication.
